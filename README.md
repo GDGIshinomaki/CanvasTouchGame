@@ -1,1 +1,2 @@
-# CanvasTouchGame
+# CanvasSample
+Canvasを使ったタッチゲームのサンプル
